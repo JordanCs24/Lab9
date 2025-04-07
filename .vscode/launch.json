@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jcsowel/Desktop/CPSC 1021/Lab9",
+      "program": "/Users/jcsowel/Desktop/CPSC 1021/Lab9/build/Debug/outDebug"
+    }
+  ]
+}
