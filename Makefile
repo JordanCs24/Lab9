@@ -15,8 +15,8 @@ all: $(PROGRAM)
 run: $(PROGRAM)
 	./$(PROGRAM)
 
-$(PROGRAM): main.cpp EncryptableString.cpp 
-	$(COMPILER) $(OPTIONS) main.cpp EncryptableString.cpp -o $(PROGRAM)
+$(PROGRAM): main.cpp
+	$(COMPILER) $(OPTIONS) main.cpp -o $(PROGRAM)
 
 clean:
 	rm *.out
