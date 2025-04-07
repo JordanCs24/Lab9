@@ -1,3 +1,10 @@
+/*
+Name: Jordan Sowell, Diego Masella 
+My Section: CPSC 1021
+Date: 4/7/2025
+Time: 10 minutes
+Description: Header file for the Circle class and the definition of getArea function
+*/
 #ifndef CIRCLE_H_
 #define CIRCLE_H_
 

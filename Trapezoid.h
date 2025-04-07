@@ -1,3 +1,11 @@
+/*
+Name: Jordan Sowell, Diego Masella 
+My Section: CPSC 1021
+Date: 4/7/2025
+Time: 2 minutes
+Description: Header file for the Trapezoid class and the definition of getArea function
+*/
+
 #ifndef TRAPEZOID_H_
 #define TRAPEZOID_H_
 

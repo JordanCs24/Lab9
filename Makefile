@@ -1,5 +1,4 @@
-#Name: Jordan Sowell
-#Group member: Diego Masella 
+#Name: Jordan Sowell, Diego Masella 
 #My Class: CPSC 1021
 #Date: 4/7/2025
 

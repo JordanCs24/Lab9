@@ -1,3 +1,11 @@
+/*
+Name: Jordan Sowell, Diego Masella 
+My Section: CPSC 1021
+Date: 4/7/2025
+Time: 2 minutes
+Description: Header file for the Square class and the definition of getArea function
+*/
+
 #ifndef SQUARE_H_
 #define SQUARE_H_
 

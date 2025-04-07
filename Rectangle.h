@@ -1,3 +1,11 @@
+
+/*
+Name: Jordan Sowell, Diego Masella 
+My Section: CPSC 1021
+Date: 4/7/2025
+Time: 2 minutes
+Description: Header file for the rectangle class and the definition of getArea function
+*/
 #ifndef RECTANGLE_H_
 #define RECTANGLE_H_
 
